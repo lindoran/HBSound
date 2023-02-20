@@ -1,0 +1,28 @@
+
++----------+----------------------------------------------------------------------+
+| Quantity |                            Component name                            |
++----------+----------------------------------------------------------------------+
+|        1 | W27E257 Memory ICs / EEPROMs                                         |
+|        2 | CD74HC161E Logic ICs / Counters                                      |
+|        1 | CD74HC194E Logic ICs / Flip-Flops, Latches, Registers                |
+|        1 | 40 PIN 90 DEGREE 2X20 CONNECTER CONNECTORS                           |
+|        2 | SN74HCT245N Logic ICs / Receivers, Transceivers                      |
+|        1 | SN74HC14N Logic ICs / Gates and Inverters                            |
+|        1 | SN74HC00N Logic ICs / Gates and Inverters                            |
+|        1 | 1X9 10K COMMON PIN RESISTER NETOWRK PASSIVES, RESISTERS              |
+|        2 | CD74HC404105E 16 WORD FIFO FLEXIBLE REGISTER                         |
+|        4 | 10K 1/4 OR 1/2 W RESISTER PASSIVES, RESISTERS                        |
+|        3 | 220R 1/4 OR 1/2 W RESISTER PASSIVES, RESISTERS                       |
+|        1 | 10uF/25v electrolytic cap Passives, capacitors                       |
+|        1 | 4k7 1/4 or 1/2 w resister passives, resisters                        |
+|        1 | 22k 1/4 or 1/2 w resister passives, resisters                        |
+|        2 | BC547BTF Discrete Semiconductors / Transistors, MOSFETs, FETs, IGBTs |
+|        1 | 1K 1/4 or 1/2 w resister passives, resisters                         |
+|        1 | 100k 1/4 or 1/2 w resister passives, resisters                       |
+|        1 | 1uF/25V electrolytic cap passives, capacitor                         |
+|        1 | TLC7528CN Data Converters / Digital to Analog Converters (DACs)      |
+|        1 | 74HC175n Logic ICs / Flip-Flops, Latches, Registers                  |
+|        1 | 74hc74n Logic ICs / Flip-Flops, Latches, Registers                   |
+|        1 | 3 pin headphone jack connecters                                      |
++----------+----------------------------------------------------------------------+
+
