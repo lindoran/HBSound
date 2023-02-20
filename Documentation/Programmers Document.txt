@@ -2,11 +2,6 @@
 
 © D. Collins 2023  / Z80Dad
 
-
-
-
-
-
 This document describes the specific locations of the address space for the flags,
 control and data io for the HBSound DAC based sound card for the HB6809.  This is 
 intended to be rudimentary and non-specific as the interface can be installed in 
