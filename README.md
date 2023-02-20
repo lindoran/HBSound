@@ -36,7 +36,8 @@
 
 
 <p>HBSound is open hardware under : <a href="https://cern-ohl.web.cern.ch/">CERN-OH-P</a><br></p>
-<PRE>
+<H3> Libility / warranty language from the licence </h3>
+<p>
 5.1 DISCLAIMER OF WARRANTY -- The Covered Source and any Products
       are provided 'as is' and any express or implied warranties,
       including, but not limited to, implied warranties of
@@ -66,4 +67,4 @@
       Licensor(s) free and harmless from any liability, costs,
       damages, fees and expenses, including claims by third parties,
       in relation to such use.
-</PRE>
+</p>
