@@ -1,4 +1,4 @@
-<p>HBSound is an attempt to make Hobbyist home brew sound card, based off a simple architecture that can be controlled from even a simple micro controller.</p>
+<p><a href="https://hackaday.io/project/187948-hbsound">HBSound</a> is an attempt to make Hobbyist home brew sound card, based off a simple architecture that can be controlled from even a simple micro controller.</p>
 
 <p><br>The design goals are:</p>
 
