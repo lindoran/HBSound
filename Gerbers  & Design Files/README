@@ -1,2 +1,4 @@
 This directory contains files needed for ordering a PCB.  THe .HEX is the ROM creation file that needs to be burned onto
 the rom with a eeprom programmer.
+
+ASCII BOM is up to date ods needs work
