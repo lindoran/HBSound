@@ -10,7 +10,7 @@
 |        1 | SN74HC14N Logic ICs / Gates and Inverters                            |
 |        1 | SN74HC00N Logic ICs / Gates and Inverters                            |
 |        1 | 1X9 10K COMMON PIN RESISTER NETOWRK PASSIVES, RESISTERS              |
-|        2 | CD74HC404105E 16 WORD FIFO FLEXIBLE REGISTER                         |
+|        2 | CD74HC10405N 16 WORD FIFO FLEXIBLE REGISTER                          |
 |        4 | 10K 1/4 OR 1/2 W RESISTER PASSIVES, RESISTERS                        |
 |        3 | 220R 1/4 OR 1/2 W RESISTER PASSIVES, RESISTERS                       |
 |        1 | 10uF/25v electrolytic cap Passives, capacitors                       |
@@ -24,5 +24,5 @@
 |        1 | 74HC175n Logic ICs / Flip-Flops, Latches, Registers                  |
 |        1 | 74hc74n Logic ICs / Flip-Flops, Latches, Registers                   |
 |        1 | 3 pin headphone jack connecters                                      |
+|       11 | 100pF bypass capacitors                                              |
 +----------+----------------------------------------------------------------------+
-
